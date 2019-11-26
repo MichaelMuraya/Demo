@@ -1,0 +1,11 @@
+C:\Users\35840\source\repos\Viikko9\DemoToimintoja\DemoToimintoja\bin\Debug\netcoreapp3.0\DemoToimintoja.exe
+C:\Users\35840\source\repos\Viikko9\DemoToimintoja\DemoToimintoja\bin\Debug\netcoreapp3.0\DemoToimintoja.deps.json
+C:\Users\35840\source\repos\Viikko9\DemoToimintoja\DemoToimintoja\bin\Debug\netcoreapp3.0\DemoToimintoja.runtimeconfig.json
+C:\Users\35840\source\repos\Viikko9\DemoToimintoja\DemoToimintoja\bin\Debug\netcoreapp3.0\DemoToimintoja.runtimeconfig.dev.json
+C:\Users\35840\source\repos\Viikko9\DemoToimintoja\DemoToimintoja\bin\Debug\netcoreapp3.0\DemoToimintoja.dll
+C:\Users\35840\source\repos\Viikko9\DemoToimintoja\DemoToimintoja\bin\Debug\netcoreapp3.0\DemoToimintoja.pdb
+C:\Users\35840\source\repos\Viikko9\DemoToimintoja\DemoToimintoja\obj\Debug\netcoreapp3.0\DemoToimintoja.csprojAssemblyReference.cache
+C:\Users\35840\source\repos\Viikko9\DemoToimintoja\DemoToimintoja\obj\Debug\netcoreapp3.0\DemoToimintoja.AssemblyInfoInputs.cache
+C:\Users\35840\source\repos\Viikko9\DemoToimintoja\DemoToimintoja\obj\Debug\netcoreapp3.0\DemoToimintoja.AssemblyInfo.cs
+C:\Users\35840\source\repos\Viikko9\DemoToimintoja\DemoToimintoja\obj\Debug\netcoreapp3.0\DemoToimintoja.dll
+C:\Users\35840\source\repos\Viikko9\DemoToimintoja\DemoToimintoja\obj\Debug\netcoreapp3.0\DemoToimintoja.pdb
